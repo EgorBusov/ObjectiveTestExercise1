@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SE76z0fOR1Og5hOH2O7Wrw5IbDuL27IeOCWQstIjTo3sqK6MeA2P4PylVSQ5KBVCvr9SRs9zFs6Eb+sDUSiz3Q==",
+  "dgSpecHash": "zdeNwrX3fJv+go8ciqsk5EEZLbxf9OK7Oiq4/byBrTvwMSLvQzpsXoOF+m4jUimDVifl3xD9kDC3OCBt1fEspg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise\\ObjectiveTestExercise\\ObjectiveTestExercise.csproj",
+  "projectFilePath": "C:\\Users\\pilla\\Desktop\\ObjectiveTestExercise1\\ObjectiveTestExercise\\ObjectiveTestExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pilla\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pilla\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

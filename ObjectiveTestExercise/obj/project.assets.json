@@ -3801,11 +3801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise\\ObjectiveTestExercise\\ObjectiveTestExercise.csproj",
+      "projectUniqueName": "C:\\Users\\pilla\\Desktop\\ObjectiveTestExercise1\\ObjectiveTestExercise\\ObjectiveTestExercise.csproj",
       "projectName": "ObjectiveTestExercise",
-      "projectPath": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise\\ObjectiveTestExercise\\ObjectiveTestExercise.csproj",
+      "projectPath": "C:\\Users\\pilla\\Desktop\\ObjectiveTestExercise1\\ObjectiveTestExercise\\ObjectiveTestExercise.csproj",
       "packagesPath": "C:\\Users\\pilla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise\\ObjectiveTestExercise\\obj\\",
+      "outputPath": "C:\\Users\\pilla\\Desktop\\ObjectiveTestExercise1\\ObjectiveTestExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
